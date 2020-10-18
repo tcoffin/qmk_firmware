@@ -1,0 +1,12 @@
+// Vim-Mode combos
+// Based off of germ-vim-helpers.def, updated so the same combos work when
+// using the colemak keymap
+ 
+COMB(weEsc,      KC_ESC,          KC_W, KC_F)
+COMB(sdBspc,     KC_BSPC,         KC_R, KC_S)
+COMB(dfTab,      KC_TAB,          KC_S, KC_T)
+COMB(cvEnt,      KC_ENT,          KC_C, KC_V)
+COMB(uiEsc,      KC_ESC,          KC_L, KC_U)
+COMB(jkCol,      KC_COLN,         KC_N, KC_E)
+COMB(hnEnt,      KC_ENT,          KC_H, KC_K)
+ 
